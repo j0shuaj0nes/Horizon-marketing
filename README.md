@@ -9,7 +9,7 @@
 ## Usage
 To use this webpage, you can use the headings in the top header bar to navigate to the relative information within the webpage.
 You can do this by clicking on one of the headings and you be taken to the correlating information on the page. 
-See images below; the first image points to one of the headings, and the second image shows where you would be naavigated to within the page. 
+See images below; the first image points to one of the headings, and the second image shows where you would be navigated to within the page. 
 
 ![alt text](assets/images/Horiseon-nav-1.png)
 ![alt text](assets/images/Horiseon-nav-2.png)
