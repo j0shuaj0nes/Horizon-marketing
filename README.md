@@ -14,7 +14,7 @@ See images below; the first image points to one of the headings, and the second 
 ![alt text](assets/images/Horiseon-nav-1.png)
 ![alt text](assets/images/Horiseon-nav-2.png)
 
-## [Link](https://j0shuaj0nes.github.io/Horizon-marketing/)https://j0shuaj0nes.github.io/Horizon-marketing/ to deployed webpage 
+## [Link](https://j0shuaj0nes.github.io/Horizon-marketing/) to deployed webpage 
  
 
 
